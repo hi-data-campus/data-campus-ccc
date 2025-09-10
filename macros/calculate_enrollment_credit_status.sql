@@ -1,5 +1,5 @@
 {%- macro calculate_enrollment_credit_status(credit_status, transfer_status, basic_skills_status) -%}
-    {{ return(adapter.dispatch('calculate_enrollment_credit_status', macro_namespace='scccd_edw')(credit_status, transfer_status, basic_skills_status)) }}
+    {{ return(adapter.dispatch('calculate_enrollment_credit_status', macro_namespace='data_campus_ccc')(credit_status, transfer_status, basic_skills_status)) }}
 {% endmacro %}
 
 {%- macro default__calculate_enrollment_credit_status(credit_status, transfer_status, basic_skills_status) -%}
