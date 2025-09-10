@@ -173,3 +173,51 @@ There are five possible codes for CB09:
 
 Assigning a CB09 code D to a course does not qualify that course as CTE for the purposes of funding and tracking when many of the students enrolled in these courses are CTE students, and assigning code B mandates a requisite or capstone relationship to other CTE courses which imposes an unnecessary reduction in program course-offering flexibility, and assigning code A is restricted to apprenticeship courses when there are many courses that are intended for post-employment/hiring career technical training, all of which lead most faculty to code their courses using CB09 C;
 {% enddocs %}
+
+{% docs enrollment_credit_status %}
+*Enrollment Credit Status* is derived from three source fields:
+
+*Transfer Status*
+Indicates whether the course is transferable:
+- **A** – Transferable to UC and CSU
+- **B** – Transferable to CSU only
+- **C** – Not transferable
+
+*Credit Status*
+Indicates the type of credit for the course:
+- **D** – Credit, **Degree-applicable**
+- **C** – Credit, **Not degree-applicable**
+- **N** – **Noncredit** (no credit awarded)
+
+*Basic Skills Course*
+Indicates whether the course is classified as basic skills:
+- **Y** – Yes, basic skills course
+- **N** (or blank) – No, not a basic skills course
+
+*Rules*
+
+| Status Code | Definition | Conditions |
+|-------------|------------|------------|
+| **T** | **Transferable & Degree Applicable**<br>Counts for transfer **and** toward a degree. | `transfer_status` in (**A**, **B**) AND `credit_status` = **D** AND `basic_skills_status` ≠ **Y** |
+| **D** | **Not Transferable, Degree Applicable**<br>Counts toward a degree, but does not transfer. | `transfer_status` = **C** AND `credit_status` = **D** AND `basic_skills_status` ≠ **Y** |
+| **C** | **Not Transferable, Not Degree Applicable**<br>Earns credit, but credit does not apply to a degree and does not transfer. | `transfer_status` = **C** AND `credit_status` = **C** AND `basic_skills_status` ≠ **Y** |
+| **S** | **Basic Skills, Not Transferable, Not Degree Applicable** | `transfer_status` = **C** AND `credit_status` = **C** AND `basic_skills_status` = **Y** |
+| **N** | **Not Transferable, Non-Credit** | `transfer_status` = **C** AND `credit_status` = **N** AND `basic_skills_status` ≠ **Y** |
+| **B** | **Basic Skills, Not Transferable, Non-Credit** | `transfer_status` = **C** AND `credit_status` = **N** AND `basic_skills_status` = **Y** |
+| **X** | **Unknown** | Anything not covered by the rules above |
+
+{% enddocs %}
+
+{% docs transfer_level_math_flag %}
+Student completed *transfer level math* by meeting the following criteria:
+- Course is transferrable to UC or CSU (Enrollment Credit Status = 'T')
+- Course TOP Code = '1701.00'
+- Student earned a grade of 'A', 'B', 'C', 'P', 'IA', 'IB', 'IC', 'IPP'
+{% enddocs %}
+
+{% docs transfer_level_english_flag %}
+Student completed *transfer level math* by meeting the following criteria:
+- Course is transferrable to UC or CSU (Enrollment Credit Status = 'T')
+- Course TOP Code in ('1501.00', '1520.00')
+- Student earned a grade of 'A', 'B', 'C', 'P', 'IA', 'IB', 'IC', 'IPP'
+{% enddocs %}

@@ -1,11 +1,11 @@
-name: 'data_campus_docs_ccc'
+name: 'data_campus_ccc'
 version: '1.0.0'
 config-version: 2
 
 docs-paths: ["docs"]
 
 seeds:
-  data_campus_docs_ccc:
+  data_campus_ccc:
     cccco_top_code_mapping:
       +column_types:
         top_code: varchar(6)
