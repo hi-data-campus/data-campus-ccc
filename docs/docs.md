@@ -176,36 +176,18 @@ Assigning a CB09 code D to a course does not qualify that course as CTE for the 
 
 {% docs enrollment_credit_status %}
 *Enrollment Credit Status* is derived from three source fields:
+- **Transfer Status**: values **A** = Transferable to UC and CSU, **B** = Transferable to CSU only, **C** = Not transferable
+- **Credit Status**: values **D** = Credit (Degree-applicable), **C** = Credit (Not degree-applicable), **N** = Noncredit
+- **Basic Skills Course**: values **Y** for basic skills, otherwise **N**
 
-*Transfer Status*
-Indicates whether the course is transferable:
-- **A** – Transferable to UC and CSU
-- **B** – Transferable to CSU only
-- **C** – Not transferable
-
-*Credit Status*
-Indicates the type of credit for the course:
-- **D** – Credit, **Degree-applicable**
-- **C** – Credit, **Not degree-applicable**
-- **N** – **Noncredit** (no credit awarded)
-
-*Basic Skills Course*
-Indicates whether the course is classified as basic skills:
-- **Y** – Yes, basic skills course
-- **N** (or blank) – No, not a basic skills course
-
-*Rules*
-
-| Status Code | Definition | Conditions |
-|-------------|------------|------------|
-| **T** | **Transferable & Degree Applicable**<br>Counts for transfer **and** toward a degree. | `transfer_status` in (**A**, **B**) AND `credit_status` = **D** AND `basic_skills_status` ≠ **Y** |
-| **D** | **Not Transferable, Degree Applicable**<br>Counts toward a degree, but does not transfer. | `transfer_status` = **C** AND `credit_status` = **D** AND `basic_skills_status` ≠ **Y** |
-| **C** | **Not Transferable, Not Degree Applicable**<br>Earns credit, but credit does not apply to a degree and does not transfer. | `transfer_status` = **C** AND `credit_status` = **C** AND `basic_skills_status` ≠ **Y** |
-| **S** | **Basic Skills, Not Transferable, Not Degree Applicable** | `transfer_status` = **C** AND `credit_status` = **C** AND `basic_skills_status` = **Y** |
-| **N** | **Not Transferable, Non-Credit** | `transfer_status` = **C** AND `credit_status` = **N** AND `basic_skills_status` ≠ **Y** |
-| **B** | **Basic Skills, Not Transferable, Non-Credit** | `transfer_status` = **C** AND `credit_status` = **N** AND `basic_skills_status` = **Y** |
-| **X** | **Unknown** | Anything not covered by the rules above |
-
+**Coding Meaning**
+- **T**: Transferable/Credit-Degree Applicable - (CB05 = A or B, CB04 = D and CB08 = N)
+- **D**: Not Transferable/Credit-Degree Applicable - (CB05 = C, CB04 = D and CB08 = N)
+- **C**: Not Transferable/Credit-Not Degree Applicable - (CB05 = C, CB04 = C and CB08 = N)
+- **S**: Basic Skills/Not Transferable/Credit - Not Degree Applicable – (CB05 = C, CB04 = C and CB08 = B)
+- **N**: Not Transferable/Noncredit - (CB05 = C, CB04 = N, and CB08 not = B)
+- **B**: Basic Skills/Not Transferable /Non Credit - (CB05 = C, CB04 = N and CB08 = B)
+- **X**: Unknown – One or more of the data elements is not reported and a status cannot be determined
 {% enddocs %}
 
 {% docs transfer_level_math_flag %}
