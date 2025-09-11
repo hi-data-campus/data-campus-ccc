@@ -1,0 +1,635 @@
+"program_code","sub_code","reproduction_code","name","is_vocational","is_program_only","is_active"
+49,30,13,"Academic Guidance",N,N,Y
+05,02,00,Accounting,Y,N,Y
+08,35,80,"Adapted Physical Education",N,N,Y
+21,05,00,"Administration of Justice",Y,N,Y
+12,08,20,"Administrative Medical Assisting",Y,N,Y
+05,09,10,Advertising,Y,N,Y
+09,50,00,"Aeronautical and Aviation Technology",Y,N,Y
+11,16,00,"African Languages (Non-Semitic)",N,N,Y
+01,12,10,"Agri-Business (Sales and Service)",Y,N,N
+01,03,10,"Agricultural Pest Control Adviser and Operator (Licensed)",Y,N,Y
+01,12,30,"Agricultural Pest Control Advisor",Y,N,N
+01,16,00,"Agricultural Power Equipment Technology",Y,N,Y
+01,00,00,"Agriculture and Natural Resources",Y,N,N
+01,12,00,"Agriculture Business, Sales and Service",Y,N,Y
+01,01,00,"Agriculture Technology and Sciences, General",Y,N,Y
+09,50,40,"Aircraft Electronics (Avionics)",Y,N,Y
+09,50,50,"Aircraft Fabrication",Y,N,Y
+05,10,70,"Air Traffic Control",Y,N,N
+30,20,30,"Air Traffic Control",Y,N,Y
+21,04,40,"Alcohol and Controlled Substances",Y,N,Y
+21,01,50,"Alcohol and Controlled Substances",Y,N,N
+09,48,40,"Alternative Fuels and Advanced Transportation Technology",Y,N,Y
+22,01,20,"American Studies",N,N,Y
+04,10,00,"Anatomy and Physiology",N,N,Y
+01,12,70,"Animal Grooming and Training",Y,N,N
+01,12,40,"Animal Health Technician (Licensed)",Y,N,N
+01,02,00,"Animal Science",Y,N,Y
+06,14,40,Animation,Y,N,Y
+22,02,00,Anthropology,N,N,Y
+05,09,30,"Apparel and Accessories",Y,N,N
+09,35,10,"Appliance Repair",Y,N,Y
+10,09,00,"Applied Design",Y,N,Y
+10,12,00,"Applied Photography",Y,N,Y
+08,35,70,"Aquatics and Lifesaving",Y,N,Y
+11,12,00,Arabic,N,N,Y
+22,02,20,Archaeology,N,N,Y
+09,53,10,"Architectural Drafting",Y,N,Y
+02,01,30,"Architectural Model Building",Y,N,N
+02,01,00,"Architecture and Architectural Technology",Y,N,Y
+02,00,00,"Architecture and Environmental Design",N,N,N
+22,10,10,"Area Studies",N,N,Y
+10,02,00,Art,N,N,Y
+01,02,20,"Artificial Inseminator (Licensed)",Y,N,Y
+01,12,50,"Artificial Inseminator (Licensed)",Y,N,N
+11,17,00,"Asian, South Asian, and Pacific Islands (Chinese and Japanese excluded)",N,N,Y
+19,11,00,Astronomy,N,N,Y
+12,12,10,"Athletic Trainer",Y,N,N
+12,28,00,"Athletic Training and Sports Medicine",Y,N,Y
+06,03,20,"Audio/Visual Technician",Y,N,N
+06,05,00,"Audio/Visual Technician",Y,N,N
+09,48,10,"Auto Mechanics",Y,N,N
+09,49,00,"Automotive Collision Repair",Y,N,Y
+09,48,00,"Automotive Technology",Y,N,Y
+09,50,10,"Aviation Airframe Mechanics",Y,N,Y
+30,20,10,"Aviation and Airport Management",Y,N,Y
+30,20,00,"Aviation and Airport Management and Services",Y,N,Y
+09,50,20,"Aviation Powerplant Mechanics",Y,N,Y
+30,02,60,Baking,Y,N,N
+05,04,00,"Banking and Finance",Y,N,Y
+05,04,10,"Banking (Management)",Y,N,N
+20,03,00,"Behavioral Science",N,N,Y
+09,36,50,"Bindery and Finish Work",Y,N,N
+49,02,00,"Biological and Physical Sciences (and Mathematics)",N,Y,Y
+10,11,30,"Biological Photography Technician",Y,N,N
+04,00,00,"Biological Sciences",N,N,N
+04,01,00,"Biology, General",N,N,Y
+09,34,60,"Biomedical Instrumentation",Y,N,Y
+04,30,00,"Biotechnology and Biomedical Technology",Y,N,Y
+05,02,20,Bookkeeping,Y,N,N
+04,02,00,"Botany, General",N,N,Y
+06,04,30,"Broadcast Journalism",Y,N,Y
+05,05,00,"Business Administration",Y,N,Y
+05,01,00,"Business and Commerce, General",Y,N,Y
+05,00,00,"Business and Management",Y,N,N
+09,35,20,"Business Machine Maintenance",Y,N,N
+05,06,00,"Business Management",Y,N,Y
+09,36,20,"Camera and Stripping",Y,N,N
+12,07,40,"Cardio-Pulmonary Technician",Y,N,N
+12,13,00,"Cardiovascular Technician",Y,N,Y
+49,30,10,"Career Guidance and Orientation",N,N,Y
+49,30,40,"Career Technical Computational Skills",N,N,N
+09,52,10,Carpentry,Y,N,Y
+05,04,40,"Cashiering, Bank Tellering",Y,N,N
+30,02,40,Catering,Y,N,N
+10,02,30,Ceramics,N,N,Y
+12,30,30,"Certified Nurse Assistant",Y,N,Y
+30,02,10,"Chef Training",Y,N,N
+09,54,00,"Chemical Technology",Y,N,Y
+19,05,00,"Chemistry for UC Transfer",N,Y,Y
+19,05,00,"Chemistry, General",N,N,Y
+13,05,10,"Child and Adolescent Development",Y,Y,Y
+21,07,20,"Child Development",Y,N,N
+13,05,80,"Child Development Administration and Management",Y,N,Y
+13,04,20,"Child Development Care and Guidance",Y,N,N
+13,05,00,"Child Development/Early Care and Education",Y,N,Y
+13,05,20,"Children with Special Needs",Y,N,Y
+11,07,00,Chinese,N,N,Y
+10,10,00,Cinematography,Y,N,N
+49,30,90,"Citizenship / ESL Civics",N,N,Y
+49,30,90,"Citizenship / ESL Civics",N,N,N
+09,25,10,Civil,Y,N,N
+09,57,00,"Civil and Construction Management Technology",Y,N,Y
+09,53,20,"Civil Drafting",Y,N,Y
+15,04,00,Classics,N,N,Y
+05,14,50,"Clerical (Including Office Practice)",Y,N,N
+12,08,10,"Clinical Medical Assisting",Y,N,Y
+13,04,30,"Clothing and Textiles",Y,N,N
+08,35,60,Coaching,Y,N,Y
+10,13,00,"Commercial Art",Y,N,Y
+10,09,20,"Commercial Art",Y,N,N
+10,08,10,"Commercial Dance",Y,N,Y
+10,05,00,"Commercial Music",Y,N,Y
+10,04,30,"Commercial Music",Y,N,N
+10,11,40,"Commercial Photography",Y,N,N
+30,00,00,"Commercial Services",Y,N,N
+30,01,00,"Commercial Services, General",Y,N,N
+06,00,00,Communications,N,N,N
+49,30,20,"Communication Skills",N,N,N
+12,61,00,"Community Health Care Worker",Y,N,Y
+21,04,30,"Community Health Worker",Y,N,N
+21,01,00,"Community Services, General",N,N,N
+15,03,00,"Comparative Literature",N,N,Y
+07,00,00,"Computer and Information Science",Y,N,N
+09,34,10,"Computer Electronics",Y,N,Y
+10,30,20,"Computer Graphics",Y,N,N
+06,14,60,"Computer Graphics and Digital Imagery",Y,N,Y
+07,02,00,"Computer Information Systems",Y,N,Y
+07,08,00,"Computer Infrastructure and Support",Y,N,Y
+07,08,10,"Computer Networking",Y,N,Y
+07,07,10,"Computer Programming",Y,N,Y
+07,04,10,"Computer Programming, Business",Y,N,N
+07,04,20,"Computer Programming, Scientific",Y,N,N
+07,06,00,"Computer Science (Transfer)",N,N,Y
+07,07,00,"Computer Software Development",Y,N,Y
+07,08,20,"Computer Support",Y,N,Y
+07,07,30,"Computer Systems Analysis",Y,N,Y
+09,52,00,"Construction Crafts Technology",Y,N,Y
+09,57,20,"Construction Inspection",Y,N,Y
+09,57,10,"Construction Management",Y,N,N
+13,04,10,"Consumer and Homemaking HM EC",Y,N,N
+13,04,40,"Consumer Education",Y,N,N
+13,00,00,"Consumer Education & Home Economics",Y,N,N
+13,01,10,"Consumer Services",Y,N,Y
+12,01,10,"Core Curriculum for all Health",N,N,N
+21,05,10,Corrections,Y,N,Y
+30,07,00,"Cosmetology and Barbering",Y,N,Y
+21,07,70,"Counselor Aide",Y,N,N
+05,14,30,"Court Reporting",Y,N,Y
+15,07,00,"Creative Writing",N,N,Y
+05,04,30,"Credit Management",Y,N,N
+13,06,30,"Culinary Arts",Y,N,Y
+30,05,00,"Custodial Services",Y,N,N
+30,05,00,"Custodial Services",Y,N,Y
+05,18,00,"Customer Service",Y,N,Y
+01,02,30,"Dairy Science",Y,N,Y
+10,08,00,Dance,N,N,Y
+07,07,20,"Database Design and Administration",Y,N,Y
+12,40,10,"Dental Assistant",Y,N,Y
+12,40,20,"Dental Hygienist",Y,N,Y
+12,40,30,"Dental Laboratory Technician",Y,N,Y
+12,40,00,"Dental Occupations",Y,N,Y
+12,04,30,"Dental Technician",Y,N,N
+09,25,20,Design/Drafting,Y,N,N
+06,14,50,"Desktop Publishing",Y,N,Y
+12,27,00,"Diagnostic Medical Sonography",Y,N,Y
+12,07,80,"Dialysis Technician",Y,N,N
+09,47,10,"Diesel Mechanic",Y,N,N
+09,47,00,"Diesel Technology",Y,N,Y
+13,06,20,"Dietetic Services and Management",Y,N,Y
+13,06,60,"Dietetic Technology",Y,N,Y
+09,56,90,"Digital Fabrication Technician",Y,Y,Y
+06,14,00,"Digital Media",Y,N,Y
+21,04,50,"Disability Services",Y,N,Y
+05,09,60,Display,Y,N,Y
+09,59,10,"Diving and Underwater Safety",Y,N,Y
+21,01,30,"Diving and Underwater Safety",Y,N,N
+09,53,00,"Drafting Technology",Y,N,Y
+10,07,00,"Dramatic Arts",N,N,Y
+30,08,00,"Dry Cleaning",Y,N,Y
+09,52,80,"Drywall and Insulation",Y,N,Y
+21,07,10,"Early Childhood Education Aide",Y,N,N
+19,30,00,"Earth Science",N,N,Y
+05,09,70,"E-Commerce (Business emphasis)",Y,N,Y
+07,09,10,"E-Commerce (Technology emphasis)",Y,N,Y
+22,04,00,Economics,N,N,Y
+08,00,00,Education,N,N,N
+08,02,00,"Educational Aide (Teacher Assistant)",Y,N,Y
+08,02,10,"Educational Aide (Teacher Assistant), Bilingual",Y,N,Y
+08,60,00,"Educational Technology",Y,N,Y
+08,01,00,"Education, General",N,N,Y
+09,25,30,Electrical,Y,N,N
+09,52,20,Electrical,Y,N,Y
+09,53,30,"Electrical, Electronic, and Electro-Mechanical Drafting",Y,N,Y
+09,34,40,"Electrical Systems and Power Transmission",Y,N,Y
+12,15,00,Electrocardiography,Y,N,Y
+12,07,00,"Electro-Diagnostic Technology",Y,N,N
+12,07,10,"Electro-Diagnostic Technology",Y,N,N
+09,35,00,"Electro-Mechanical Technology",Y,N,Y
+09,25,60,"ElectroMechanical Technology",Y,N,N
+12,12,00,"Electro-Neurodiagnostic Technology",Y,N,Y
+06,14,20,"Electronic Game Design",Y,N,Y
+09,25,40,Electronics,Y,N,N
+09,34,00,"Electronics and Electric Technology",Y,N,Y
+09,34,70,"Electron Microscopy",Y,N,Y
+49,30,42,"Elementary Algebra (not degree applicable)",N,N,N
+49,30,60,"Elementary Education (Grades 1-8)",N,N,Y
+12,50,00,"Emergency Medical Services",Y,N,Y
+12,50,20,EMT,Y,N,N
+09,46,10,"Energy Systems Technology",Y,N,Y
+09,01,00,"Engineering, General (requires Calculus) (Transfer)",N,N,Y
+09,00,00,"Engineering & Related Industrial Technology",N,N,N
+49,04,00,"Engineering Technology and Liberal Arts",N,N,N
+09,24,00,"Engineering Technology, General (requires Trigonometry)",Y,N,Y
+15,01,00,English,N,N,Y
+49,30,81,"English as a Second Language - Advanced (not degree applicable)",N,N,N
+49,30,81,"English as a Second Language–College Level",N,Y,N
+49,30,83,"English as a Second Language - Degree Applicable",N,N,N
+49,30,82,"English as a Second Language - Elementary",N,N,N
+49,30,80,"English as a Second Language–General",N,Y,N
+49,30,80,"English as a Second Language–General",N,Y,N
+49,30,80,"English as a Second Language–General",N,Y,N
+49,30,87,"English as a Second Language - Integrated",N,N,Y
+49,30,80,"English as a Second Language - Intermediate",N,N,N
+49,30,86,"English as a Second Language - Listening and Speaking",N,N,Y
+49,30,85,"English as a Second Language - Reading",N,N,Y
+49,30,82,"English as a Second Language–Survival Level",N,Y,N
+49,30,84,"English as a Second Language - Writing",N,N,Y
+09,46,00,"Environmental Control Technology",Y,N,Y
+21,99,10,"Environmental Enforcement",Y,N,N
+03,01,00,"Environmental Science",N,N,Y
+03,99,00,"Environmental Sciences and Technologies, Other",N,N,Y
+03,02,00,"Environmental Studies",N,N,Y
+03,03,00,"Environmental Technology",Y,N,Y
+01,02,40,"Equine Science",Y,N,Y
+01,16,10,"Equipment and Machinery, General",Y,N,N
+05,11,10,Escrow,Y,N,Y
+49,30,91,"ESL Civics",N,N,N
+22,03,00,"Ethnic Studies",N,N,Y
+13,01,00,"Family and Consumer Sciences, General",Y,N,Y
+13,04,50,"Family/Individual Health",Y,N,N
+13,04,60,"Family Living and Parenthood",Y,N,N
+13,08,00,"Family Studies",Y,N,Y
+01,02,50,"Farm Management",Y,N,N
+01,16,30,"Farm Mechanics",Y,N,N
+01,12,60,Farrier,Y,N,N
+13,03,00,Fashion,Y,N,Y
+13,03,10,"Fashion Design",Y,N,Y
+13,03,20,"Fashion Merchandising",Y,N,Y
+13,03,30,"Fashion Production",Y,N,Y
+11,17,10,"Filipino (Tagalog)",N,N,Y
+06,12,10,"Film History and Criticism",N,N,Y
+06,12,20,"Film Production",Y,N,Y
+06,12,00,"Film Studies",N,N,Y
+10,00,00,"Fine and Applied Arts",N,N,N
+10,01,00,"Fine Arts, General",N,N,Y
+21,33,50,"Fire Academy",Y,N,Y
+21,33,00,"Fire Technology",Y,N,Y
+08,35,20,"Fitness Trainer",Y,N,Y
+30,20,40,"Flight Attendant",Y,N,Y
+01,09,20,"Floriculture / Floristry",Y,N,Y
+13,02,20,Floristry,Y,N,N
+09,45,20,"Fluid Power/Hydraulic Technology",Y,N,N
+13,06,50,"Food and Equipment Demonstration",Y,N,N
+13,04,70,"Food and Nutrition",Y,N,N
+01,12,80,"Food Processing",Y,N,N
+01,13,00,"Food Processing and Related Technologies",Y,N,Y
+30,02,00,"Food Service Technology",Y,N,N
+11,00,00,"Foreign Language",N,N,N
+11,01,00,"Foreign Languages, General",N,N,Y
+21,05,40,"Forensics, Evidence, and Investigation",Y,N,Y
+01,14,20,"Forest Protection",Y,N,N
+01,14,00,Forestry,Y,N,Y
+13,05,70,"Foster and Kinship Care",Y,N,Y
+11,02,00,French,N,N,Y
+05,09,80,Gemology,Y,N,N
+01,01,10,"General Agriculture",Y,N,N
+49,30,00,"General Studies",N,Y,Y
+49,32,00,"General Work Experience",Y,N,Y
+22,06,10,"Geographic Information Systems",Y,N,Y
+22,06,00,Geography,N,N,Y
+19,14,10,"Geologic Technician",Y,N,N
+19,14,00,Geology,N,N,Y
+11,03,00,German,N,N,Y
+13,09,00,Gerontology,Y,N,Y
+21,07,40,"Gerontology Aide",Y,N,N
+09,52,40,Glazing,Y,N,Y
+22,10,20,"Global Studies",N,Y,Y
+10,30,00,"Graphic Art and Design",Y,N,Y
+11,10,00,Greek,N,N,Y
+21,33,20,"Hazardous Materials Handling",Y,N,N
+12,00,00,Health,Y,N,N
+08,37,00,"Health Education",N,N,Y
+12,08,30,"Health Facility Unit Coordinator",Y,N,Y
+12,23,10,"Health Information Coding",Y,N,Y
+12,23,00,"Health Information Technology",Y,N,Y
+12,01,00,"Health Occupations, General",Y,N,Y
+12,60,00,"Health Professions, Transfer Core Curriculum",Y,N,Y
+09,47,20,"Heavy Equipment Maintenance",Y,N,Y
+09,47,30,"Heavy Equipment Operation",Y,N,Y
+11,11,00,"Hebrew and Semitic",N,N,Y
+22,05,00,History,N,N,Y
+12,30,80,"Home Health Aide",Y,N,Y
+13,04,80,"Home Management",Y,N,N
+01,09,00,Horticulture,Y,N,Y
+12,02,00,"Hospital and Health Care Administration",Y,N,Y
+12,09,00,"Hospital Central Service Technician",Y,N,Y
+13,07,00,Hospitality,Y,N,Y
+13,07,00,"Hospitality Management",Y,Y,Y
+12,02,20,"Hospital Staff Development",Y,N,N
+05,06,20,"Hotel/Motel Management",Y,N,N
+13,04,90,"Housing, Home Furnishings and Equipment",Y,N,N
+49,03,00,Humanities,N,Y,Y
+15,00,00,Humanities,N,N,N
+49,03,10,"Humanities and Fine Arts",N,Y,Y
+49,03,30,"Humanities and Social Sciences",N,Y,Y
+21,07,00,"Human Services",Y,N,N
+21,04,00,"Human Services",Y,N,Y
+09,56,70,"Industrial and Occupational Safety and Health",Y,N,Y
+21,05,30,"Industrial and Transportation Security",Y,N,Y
+08,39,00,"Industrial Arts (Transfer)",N,N,Y
+09,53,50,"Industrial Design",Y,N,N
+09,35,40,"Industrial Electrical/Mechanical",Y,N,N
+09,34,20,"Industrial Electronics",Y,N,Y
+09,56,80,"Industrial Quality Control",Y,N,Y
+13,03,40,"Industrial Sewing",Y,N,N
+09,45,00,"Industrial Systems Technology and Maintenance",Y,N,Y
+13,05,90,"Infants and Toddlers",Y,N,Y
+07,01,00,"Information Technology, General",Y,N,Y
+30,02,20,"Institutional Cook",Y,N,N
+30,04,00,"Institutional Housekeeping",Y,N,N
+12,02,10,"Institutional Management Technician",Y,N,N
+09,43,00,"Instrumentation Technology",Y,N,Y
+09,43,10,"Instrument Maintenance",Y,N,N
+05,12,00,Insurance,Y,N,Y
+08,35,50,"Intercollegiate Athletics",N,N,Y
+49,00,00,"Interdisciplinary Studies",N,N,N
+02,03,00,"Interior Design",Y,N,N
+13,02,00,"Interior Design and Merchandising",Y,N,Y
+02,03,10,"Interior Design Technology",Y,N,N
+05,08,00,"International Business and Trade",Y,N,Y
+22,10,00,"International Studies",N,N,Y
+05,10,10,"International Trade",Y,N,N
+49,30,11,"Interpersonal Skills",N,N,Y
+05,04,20,"Investments and Securities",Y,N,N
+11,04,00,Italian,N,N,Y
+11,08,00,Japanese,N,N,Y
+10,09,10,Jewelry,N,N,Y
+49,30,12,"Job Seeking/Changing Skills",N,N,Y
+06,02,00,Journalism,Y,N,Y
+12,70,00,Kinesiology,N,N,Y
+11,17,30,Korean,N,N,Y
+05,16,00,"Labor and Industrial Relations",Y,N,Y
+09,55,00,"Laboratory Science Technology",Y,N,Y
+02,01,10,"Landscape Architecture (Transfer)",N,N,Y
+01,09,10,"Landscape Design and Maintenance",Y,N,Y
+15,02,00,"Language Arts",N,N,Y
+09,34,80,"Laser and Optical Technology",Y,N,Y
+11,09,00,Latin,N,N,Y
+14,00,00,Law,N,N,N
+14,01,00,"Law, General",N,N,Y
+14,01,00,"Law, Public Policy, and Society",N,Y,Y
+49,30,72,"Leadership Skills Development",N,N,Y
+49,30,30,"Learning Skills, Handicapped",N,N,Y
+49,30,32,"Learning Skills, Learning Disabled",N,N,Y
+49,30,33,"Learning Skills, Speech Impaired",N,N,Y
+21,40,00,"Legal and Community Interpretation",Y,N,Y
+14,01,10,"Legal Assistant(Judicial Aide)",Y,N,N
+05,14,10,"Legal Office Technology",Y,N,Y
+49,01,00,"Liberal Arts and Sciences, General",N,Y,Y
+49,01,20,"Liberal Studies",N,Y,Y
+16,00,00,"Library Science",N,N,N
+16,01,00,"Library Science, General",N,N,Y
+16,02,00,"Library Technician (Aide)",Y,N,Y
+16,01,10,"Library Technician OR Aide",Y,N,N
+12,30,20,"Licensed Vocational Nursing",Y,N,Y
+15,01,10,Linguistics,N,N,Y
+49,30,31,"Living Skills, Handicapped",N,N,Y
+13,07,20,"Lodging Management",Y,N,Y
+05,10,00,"Logistics and Materials Transportation",Y,N,Y
+09,56,30,"Machining and Machine Tools",Y,N,Y
+07,01,10,"Maintenance Technician",Y,N,N
+05,06,30,"Management Development and Supervision",Y,N,Y
+09,56,00,"Manufacturing and Industrial Technology",Y,N,Y
+09,59,00,"Marine Technology",Y,N,Y
+05,09,00,"Marketing and Distribution",Y,N,Y
+09,52,60,"Masonry, Tile, Cement, Lath and Plaster",Y,N,Y
+12,62,00,"Massage Therapy",Y,N,Y
+06,10,00,"Mass Communications",Y,N,Y
+06,01,30,"Mass Communications",Y,N,N
+17,00,00,Mathematics,N,N,N
+17,01,00,"Mathematics, General",N,N,Y
+17,01,10,"Mathematics, General (Non-majors)",N,N,N
+17,02,00,"Mathematics Skills",N,N,Y
+09,25,50,Mechanical,Y,N,N
+09,53,40,"Mechanical Drafting",Y,N,Y
+06,01,00,"Media and Communications, General",N,N,Y
+12,08,00,"Medical Assisting",Y,N,Y
+12,05,20,"Medical Equipment Technician",Y,N,N
+12,05,30,"Medical Lab Assistant",Y,N,N
+12,05,00,"Medical Laboratory Technology",Y,N,Y
+05,14,20,"Medical Office Technology",Y,N,Y
+12,15,10,"Medical Record Technician",Y,N,N
+12,01,20,"Medicine, General",N,N,N
+12,39,20,"Mental Health Aide",Y,N,N
+09,56,10,"Metallurgical Technology",Y,N,N
+09,56,20,Metalworking,Y,N,N
+04,03,00,Microbiology,N,N,Y
+18,01,00,"Military Science",N,N,Y
+18,00,00,"Military Studies",N,N,N
+09,52,50,"Mill and Cabinet Work",Y,N,Y
+12,55,00,"Mortuary Science",Y,N,Y
+09,48,30,"Motorcycle, Outboard and Small Engine Repair",Y,N,Y
+06,14,10,Multimedia,Y,N,Y
+10,04,00,Music,N,N,Y
+09,56,90,"Musical Instrument Repair",Y,N,N
+09,62,00,"Musical Instrument Repair",Y,N,Y
+04,08,00,"Natural History",N,N,Y
+01,15,00,"Natural Resources",Y,N,Y
+01,09,30,"Nursery Technology",Y,N,Y
+12,30,00,Nursing,Y,N,Y
+12,03,10,"Nursing, RN",Y,N,N
+13,06,00,"Nutrition, Foods, and Culinary Arts",Y,N,Y
+13,06,40,"Nutrition, Health and Fitness",Y,N,N
+12,03,40,"Obstetrical Technology",Y,N,N
+13,02,10,"Occupational Home Furnishing",Y,N,N
+12,18,00,"Occupational Therapy Technology",Y,N,Y
+19,19,10,"Oceangraphy Technician",Y,N,N
+19,19,00,Oceanography,N,N,Y
+19,20,00,"Ocean Technology",Y,N,Y
+05,14,40,"Office Management",Y,N,Y
+05,14,00,"Office Technology/Office Computer Applications",Y,N,Y
+12,09,10,"Optical Technician",Y,N,N
+12,19,00,"Optical Technology",Y,N,Y
+09,61,00,Optics,Y,N,Y
+12,14,00,"Orthopedic Assistant",Y,N,Y
+12,07,50,"Orthopedic Assistant",Y,N,N
+01,99,00,"Other Agriculture and Natural Resources",Y,N,Y
+02,99,00,"Other Architecture and Environmental Design",Y,N,Y
+04,99,00,"Other Biological Sciences",N,N,Y
+05,99,00,"Other Business and Management",Y,N,Y
+30,99,00,"Other Commercial Services",Y,N,Y
+08,99,00,"Other Education",Y,N,Y
+09,99,00,"Other Engineering and Related Industrial Technologies",Y,N,Y
+13,99,00,"Other Family and Consumer Sciences",Y,N,Y
+10,99,00,"Other Fine and Applied Arts",Y,N,Y
+11,99,00,"Other Foreign Languages",N,N,Y
+12,99,00,"Other Health Occupations",Y,N,Y
+15,99,00,"Other Humanities",N,N,Y
+07,99,00,"Other Information Technology",Y,N,Y
+49,99,00,"Other Interdisciplinary Studies",N,N,Y
+14,99,00,"Other Law",N,N,Y
+16,99,00,"Other Library Science",N,N,Y
+17,99,00,"Other Mathematics",N,N,Y
+06,99,00,"Other Media and Communications",Y,N,Y
+18,99,00,"Other Military Studies",N,N,Y
+19,99,00,"Other Physical Sciences",N,N,Y
+20,99,00,"Other Psychology",N,N,Y
+21,99,00,"Other Public and Protective Services",Y,N,Y
+22,99,00,"Other Social Sciences",N,N,Y
+01,12,90,"Pack Station and Stable Operations",Y,N,N
+10,02,10,"Painting and Drawing",N,N,Y
+09,52,70,"Painting, Decorating, and Flooring",Y,N,Y
+14,02,00,Paralegal,Y,N,Y
+12,51,00,Paramedic,Y,N,Y
+12,50,10,"Paramedical Technician",Y,N,N
+21,07,30,"Parent Education",Y,N,N
+13,05,60,"Parenting and Family Education",Y,N,Y
+01,15,10,"Parks and Outdoor Recreation",Y,N,Y
+21,03,00,"Parks and Recreation Management",Y,N,N
+09,54,30,"Petroleum Technology",Y,N,Y
+12,11,10,"Pharmacy Technician",Y,N,N
+12,21,00,"Pharmacy Technology",Y,N,Y
+15,09,00,Philosophy,N,N,Y
+12,05,10,Phlebotomy,Y,N,Y
+10,11,00,Photography,N,N,Y
+10,11,10,"Photo Lab Technician",Y,N,N
+08,35,00,"Physical Education",N,N,Y
+08,35,10,"Physical Fitness and Body Movement",N,N,Y
+19,00,00,"Physical Sciences",N,N,N
+19,01,00,"Physical Sciences, General",N,N,Y
+12,22,00,"Physical Therapist Assistant",Y,N,Y
+12,12,20,"Physical Therapy Assistant",Y,N,N
+12,06,00,"Physicians Assistant",Y,N,Y
+12,06,10,"Physicians Assistant, General",Y,N,N
+12,06,30,"Physicians Assistant, Primary Care",Y,N,N
+19,02,00,"Physics for UC Transfer",N,Y,Y
+19,02,00,"Physics, General",N,N,Y
+30,20,20,Piloting,Y,N,Y
+01,03,00,"Plant Science",Y,N,Y
+09,54,20,"Plastics and Composites",Y,N,Y
+09,52,30,"Plumbing, Pipefitting and Steamfitting",Y,N,Y
+12,16,00,Podiatry,Y,N,N
+21,05,50,"Police Academy",Y,N,Y
+22,07,00,"Political Science",N,N,Y
+12,11,00,Polysomnography,Y,N,Y
+11,19,00,Portuguese,N,N,Y
+49,30,41,"Pre-Algebra (Basic Math/Arithmetic)",N,N,N
+13,05,40,"Preschool Age Children",Y,N,Y
+09,36,40,"Press Operator (Offset and Letter)",Y,N,N
+09,36,00,"Printing and Lithography",Y,N,Y
+21,05,20,"Probation and Parole",Y,N,Y
+12,39,00,"Psychiatric Technician",Y,N,Y
+20,00,00,Psychology,N,N,N
+20,01,00,"Psychology, General",N,N,Y
+21,02,00,"Public Administration",Y,N,Y
+21,00,00,"Public Affairs & Services",N,N,N
+12,01,00,"Public Health",Y,Y,Y
+21,05,60,"Public Protective Services/ Administrative of Justice/ Modern Policing",Y,Y,Y
+06,06,00,"Public Relations",Y,N,Y
+06,01,10,"Public Relations",Y,N,N
+21,02,10,"Public Works",Y,N,Y
+21,02,40,"Public Works and Utilities",Y,N,N
+05,09,20,Purchasing,Y,N,Y
+09,33,00,"Radiation Technology (Non-Medical)",Y,N,N
+12,26,00,"Radiation Therapy Technician",Y,N,Y
+06,04,10,Radio,Y,N,Y
+06,04,00,"Radio and Television",Y,N,Y
+12,25,00,"Radiologic Technology",Y,N,Y
+06,03,00,"Radio, Motion Picture and Television",Y,N,N
+09,47,40,"Railroad and Light Rail Operations",Y,N,Y
+15,20,00,Reading,N,N,Y
+49,30,71,"Reading Skills, College Level (including Speed Reading)",N,N,N
+49,30,70,"Reading Skills Development",N,N,N
+05,11,00,"Real Estate",Y,N,Y
+08,36,00,Recreation,N,N,Y
+09,48,50,"Recreational Vehicle Service",Y,N,Y
+30,09,40,"Recreation and Tourism",Y,N,N
+08,36,10,"Recreation Assistant",Y,N,Y
+12,22,30,"Recreation Therapy",Y,N,N
+12,46,00,"Recreation Therapy",Y,N,N
+09,45,40,"Refrigeration Systems",Y,N,N
+12,30,10,"Registered Nursing",Y,N,Y
+15,10,00,"Religious Studies",N,N,Y
+12,39,30,"Residential Services Provider",Y,N,N
+13,07,30,"Resort and Club Management",Y,N,Y
+12,10,00,"Respiratory Care/Therapy",Y,N,Y
+12,07,30,"Respiratory Therapy",Y,N,N
+13,07,10,"Restaurant and Food Services and Management",Y,N,Y
+30,02,50,"Restaurant/Food Service Management",Y,N,N
+05,06,50,"Retail Store Operations and Management",Y,N,Y
+09,35,50,Robotics,Y,N,N
+09,52,90,Roofing,Y,N,Y
+11,06,00,Russian,N,N,Y
+05,09,40,"Sales and Salesmanship",Y,N,Y
+12,24,00,"School Health Clerk",Y,N,Y
+10,02,20,Sculpture,N,N,Y
+21,02,60,"Search and Rescue",Y,N,N
+49,30,62,"Secondary Education (Grades 9-12) and G.E.D.",N,N,Y
+09,56,40,"Sheet Metal and Structural Metal",Y,N,Y
+08,50,00,"Sign Language",N,N,Y
+08,50,10,"Sign Language Interpreting",Y,N,Y
+21,02,20,"Ski Patrol Technician",Y,N,N
+05,06,10,"Small Business",Y,N,N
+05,06,40,"Small Business and Entrepreneurship",Y,N,Y
+22,01,80,"Social Justice: African American Studies",N,Y,Y
+22,01,90,"Social Justice: Asian American Studies",N,Y,Y
+22,01,60,"Social Justice: Chicano Studies",N,Y,Y
+22,01,50,"Social Justice: Ethnic Studies",N,Y,Y
+22,01,70,"Social Justice: Gender Studies",N,Y,Y
+22,01,30,"Social Justice: General ",N,Y,Y
+22,01,40,"Social Justice: LGBTQ Studies",N,Y,Y
+22,01,91,"Social Justice: Native American Studies",N,Y,Y
+22,00,00,"Social Sciences",N,N,N
+22,01,00,"Social Sciences, General",N,N,Y
+21,04,10,"Social Work Aide",Y,N,N
+21,04,00,"Social Work and Human Services",N,Y,Y
+21,04,00,"Social Work and Human Services",N,N,N
+22,08,00,Sociology,N,N,Y
+07,02,10,"Software Applications",Y,N,Y
+09,58,40,"Solid Waste Management",Y,N,N
+11,05,00,Spanish,N,N,Y
+08,09,00,"Special Education",Y,N,Y
+08,08,20,"Special Education - Serv/Aide",Y,N,N
+49,30,22,Speech,N,N,N
+15,06,00,"Speech Communication",N,N,Y
+12,20,00,"Speech/Language Pathology and Audiology",Y,N,Y
+09,45,30,"Stationary Engineering (Only)",Y,N,N
+21,02,50,"Street Maintenance",Y,N,N
+22,07,10,"Student Government",N,N,Y
+10,02,00,"Studio Arts",N,Y,Y
+49,30,14,"Study Skills",N,N,Y
+49,30,09,"Supervised Tutoring",N,N,Y
+12,17,00,"Surgical Technician",Y,N,Y
+12,07,70,"Surgical Technician/O.R. Nursing",Y,N,N
+09,57,30,Surveying,Y,N,Y
+07,05,10,"Systems Analysis, Business",Y,N,N
+07,05,20,"Systems Analysis, Scientific",N,N,N
+05,02,10,"Tax Studies",Y,N,Y
+05,02,30,"Tax Studies",Y,N,N
+06,07,00,"Technical Communication",Y,N,Y
+10,30,10,"Technical Illustration",Y,N,N
+09,53,60,"Technical Illustration",Y,N,Y
+17,01,70,"Technical Math",N,N,N
+10,07,10,"Technical Theater",Y,N,N
+10,06,00,"Technical Theater",Y,N,Y
+06,01,20,"Technical Writing",Y,N,N
+09,30,00,"Technologies and Occupational Curricula",Y,N,N
+09,34,30,"Telecommunications Technology",Y,N,Y
+06,04,20,"Television (including combined TV/Film/Video)",Y,N,Y
+06,03,10,"Television Technician",Y,N,N
+13,05,50,"The School Age Child",Y,N,Y
+01,14,10,"Timber Management",Y,N,N
+09,37,10,"Tool and Machine Design",Y,N,N
+05,10,30,"Traffic Management",Y,N,N
+49,01,10,"Transfer Studies",N,Y,Y
+30,09,30,"Travel Agency Operations",Y,N,N
+30,09,00,"Travel Services and Tourism",Y,N,Y
+09,47,50,"Truck and Bus Driving",Y,N,Y
+01,09,40,"Turfgrass Technology",Y,N,Y
+09,36,10,"Typesetting and Copy Preparation",Y,N,N
+05,14,60,Typing,Y,N,N
+99,99,99,Unknown,N,N,N
+09,49,10,"Upholstery Repair - Automotive",Y,N,Y
+02,01,20,"Urban Planning Technology",Y,N,N
+09,43,30,"Vacuum Technology",Y,N,Y
+09,35,30,"Vending Machine Repair",Y,N,N
+01,02,10,"Veterinary Technician (Licensed)",Y,N,Y
+11,17,20,Vietnamese,N,N,Y
+01,04,00,"Viticulture, Enology, and Wine Business",Y,N,Y
+49,31,00,"Vocational ESL",Y,N,Y
+30,02,30,Waiter/Waitress,Y,N,N
+09,58,10,"Water and Wastewater",Y,N,N
+09,58,00,"Water and Wastewater Technology",Y,N,Y
+06,14,30,"Website Design and Development",Y,N,Y
+09,56,50,"Welding Technology",Y,N,Y
+21,33,10,"Wildland Fire Technology",Y,N,Y
+01,15,20,"Wildlife and Fisheries",Y,N,Y
+22,01,10,"Women's Studies",N,N,Y
+09,56,60,Woodworking,Y,N,N
+05,14,70,"Word Processing",Y,N,N
+07,09,00,"World Wide Web Administration",Y,N,Y
+49,30,21,Writing,N,N,N
+12,25,20,"X-Ray Technician",Y,N,N
+04,07,00,"Zoology, General",N,N,Y
