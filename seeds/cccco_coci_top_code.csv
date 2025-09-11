@@ -87,7 +87,6 @@
 12,30,30,"Certified Nurse Assistant",Y,N,Y
 30,02,10,"Chef Training",Y,N,N
 09,54,00,"Chemical Technology",Y,N,Y
-19,05,00,"Chemistry for UC Transfer",N,Y,Y
 19,05,00,"Chemistry, General",N,N,Y
 13,05,10,"Child and Adolescent Development",Y,Y,Y
 21,07,20,"Child Development",Y,N,N
@@ -98,7 +97,6 @@
 11,07,00,Chinese,N,N,Y
 10,10,00,Cinematography,Y,N,N
 49,30,90,"Citizenship / ESL Civics",N,N,Y
-49,30,90,"Citizenship / ESL Civics",N,N,N
 09,25,10,Civil,Y,N,N
 09,57,00,"Civil and Construction Management Technology",Y,N,Y
 09,53,20,"Civil Drafting",Y,N,Y
@@ -150,7 +148,6 @@
 15,07,00,"Creative Writing",N,N,Y
 05,04,30,"Credit Management",Y,N,N
 13,06,30,"Culinary Arts",Y,N,Y
-30,05,00,"Custodial Services",Y,N,N
 30,05,00,"Custodial Services",Y,N,Y
 05,18,00,"Customer Service",Y,N,Y
 01,02,30,"Dairy Science",Y,N,Y
@@ -214,17 +211,12 @@
 09,24,00,"Engineering Technology, General (requires Trigonometry)",Y,N,Y
 15,01,00,English,N,N,Y
 49,30,81,"English as a Second Language - Advanced (not degree applicable)",N,N,N
-49,30,81,"English as a Second Language–College Level",N,Y,N
 49,30,83,"English as a Second Language - Degree Applicable",N,N,N
 49,30,82,"English as a Second Language - Elementary",N,N,N
 49,30,80,"English as a Second Language–General",N,Y,N
-49,30,80,"English as a Second Language–General",N,Y,N
-49,30,80,"English as a Second Language–General",N,Y,N
 49,30,87,"English as a Second Language - Integrated",N,N,Y
-49,30,80,"English as a Second Language - Intermediate",N,N,N
 49,30,86,"English as a Second Language - Listening and Speaking",N,N,Y
 49,30,85,"English as a Second Language - Reading",N,N,Y
-49,30,82,"English as a Second Language–Survival Level",N,Y,N
 49,30,84,"English as a Second Language - Writing",N,N,Y
 09,46,00,"Environmental Control Technology",Y,N,Y
 21,99,10,"Environmental Enforcement",Y,N,N
@@ -306,7 +298,6 @@
 12,02,00,"Hospital and Health Care Administration",Y,N,Y
 12,09,00,"Hospital Central Service Technician",Y,N,Y
 13,07,00,Hospitality,Y,N,Y
-13,07,00,"Hospitality Management",Y,Y,Y
 12,02,20,"Hospital Staff Development",Y,N,N
 05,06,20,"Hotel/Motel Management",Y,N,N
 13,04,90,"Housing, Home Furnishings and Equipment",Y,N,N
@@ -359,7 +350,6 @@
 11,09,00,Latin,N,N,Y
 14,00,00,Law,N,N,N
 14,01,00,"Law, General",N,N,Y
-14,01,00,"Law, Public Policy, and Society",N,Y,Y
 49,30,72,"Leadership Skills Development",N,N,Y
 49,30,30,"Learning Skills, Handicapped",N,N,Y
 49,30,32,"Learning Skills, Learning Disabled",N,N,Y
@@ -413,7 +403,6 @@
 09,48,30,"Motorcycle, Outboard and Small Engine Repair",Y,N,Y
 06,14,10,Multimedia,Y,N,Y
 10,04,00,Music,N,N,Y
-09,56,90,"Musical Instrument Repair",Y,N,N
 09,62,00,"Musical Instrument Repair",Y,N,Y
 04,08,00,"Natural History",N,N,Y
 01,15,00,"Natural Resources",Y,N,Y
@@ -484,7 +473,6 @@
 12,06,00,"Physicians Assistant",Y,N,Y
 12,06,10,"Physicians Assistant, General",Y,N,N
 12,06,30,"Physicians Assistant, Primary Care",Y,N,N
-19,02,00,"Physics for UC Transfer",N,Y,Y
 19,02,00,"Physics, General",N,N,Y
 30,20,20,Piloting,Y,N,Y
 01,03,00,"Plant Science",Y,N,Y
@@ -505,7 +493,6 @@
 20,01,00,"Psychology, General",N,N,Y
 21,02,00,"Public Administration",Y,N,Y
 21,00,00,"Public Affairs & Services",N,N,N
-12,01,00,"Public Health",Y,Y,Y
 21,05,60,"Public Protective Services/ Administrative of Justice/ Modern Policing",Y,Y,Y
 06,06,00,"Public Relations",Y,N,Y
 06,01,10,"Public Relations",Y,N,N
@@ -564,8 +551,6 @@
 22,00,00,"Social Sciences",N,N,N
 22,01,00,"Social Sciences, General",N,N,Y
 21,04,10,"Social Work Aide",Y,N,N
-21,04,00,"Social Work and Human Services",N,Y,Y
-21,04,00,"Social Work and Human Services",N,N,N
 22,08,00,Sociology,N,N,Y
 07,02,10,"Software Applications",Y,N,Y
 09,58,40,"Solid Waste Management",Y,N,N
@@ -578,7 +563,6 @@
 09,45,30,"Stationary Engineering (Only)",Y,N,N
 21,02,50,"Street Maintenance",Y,N,N
 22,07,10,"Student Government",N,N,Y
-10,02,00,"Studio Arts",N,Y,Y
 49,30,14,"Study Skills",N,N,Y
 49,30,09,"Supervised Tutoring",N,N,Y
 12,17,00,"Surgical Technician",Y,N,Y
