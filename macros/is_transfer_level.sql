@@ -14,9 +14,9 @@ case
         )
         and {{ enrollment_credit_status }} = 'T'
         and (
-            (lower({{ math_or_eng }}) = 'math' and {{ top_code }} = '1701.00')
+            (lower({{ math_or_eng }}) = 'math' and {{ top_code }} in ('1701.00', '170100'))
             or
-            (lower({{ math_or_eng }}) = 'english' and {{ top_code }} in ('1501.00', '1520.00'))
+            (lower({{ math_or_eng }}) = 'english' and {{ top_code }} in ('1501.00', '1520.00', '150100', '152000'))
         )
         then 'Y'
     else 'N'
