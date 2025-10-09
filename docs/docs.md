@@ -110,12 +110,12 @@ Count of retention enrollments divided by total enrollment
 
 {% docs enrollment_status_code %}
 Enrollment Status Code that matches the [SB15](https://webdata.cccco.edu/ded/sb/sb15.pdf) definition:
-* 1 - First Time
-* 2 - First Time Transfer
+* 1 - First-Time
+* 2 - First-Time Transfer
 * 3 - Returning
 * 5 - Continuing
 * Y - Dual Enrollment/Special Admit
-* X - Not Collected due to enrollment in Non-credit courses
+* X - Uncollected / Unreported / Unknown; Not Collected due to enrollment in Non-credit courses
 {% enddocs %}
 
 {% docs enrollment_status %}
@@ -125,6 +125,7 @@ Status of the student enrollment in a term, as follows:
 * **Returning** - A student enrolled at the reporting college after an absence of one or more primary terms.
 * **Continuing** - A student enrolled in the current session and was enrolled in the previous regular session.
 * **Dual Enrollment/Special Admit** - A Special Admit student currently enrolled in K-12 this includes students in dual enrollment (CCAP) courses, contract education, and middle college high school.
+* **Uncollected / Unreported / Unknown** - Uncollected, unreported, or unknown. This element may be coded with "X" if a student is enrolled in only noncredit courses.
 {% enddocs %}
 
 {% docs promise_flag %}
