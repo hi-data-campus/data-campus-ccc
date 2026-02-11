@@ -1,0 +1,19 @@
+scff_metric,points,allocation_rate_code,allocation_description,scff_metric_description
+aaas_ccpg_count,3,SE,Promise Grant Premium,Associate Degree Promise Grant Headcount
+aaas_count,3,SS,Student Success,Associate Degree Headcount
+aaas_pell_count,4.5,SE,Pell Grant Premium,Associate Degree Pell Grant Headcount
+ab540_count,1,SP,Supplemental,AB540 Students
+adt_ccpg_count,4,SE,Promise Grant Premium,Associate Degree for Transfer (ADT) Promise Grant Headcount
+adt_count,4,SS,Student Success,Associate Degree for Transfer (ADT) Headcount
+adt_pell_count,6,SE,Pell Grant Premium,Associate Degree for Transfer (ADT) Pell Grant Headcount
+ccpg_count,1,SP,Supplemental,Promise Grant Recipients
+certificate_ccpg_count,2,SE,Promise Grant Premium,Credit Certificate Promise Grant Headcount
+certificate_count,2,SS,Student Success,Credit Certificate Headcount
+certificate_pell_count,3,SE,Pell Grant Premium,Credit Certificate Pell Grant Headcount
+cte_ccpg_count,1,SE,Promise Grant Premium,9+ CTE Promise Grant Headcount
+cte_count,1,SS,Student Success,9+ CTE Headcount
+cte_pell_count,1.5,SE,Pell Grant Premium,9+ CTE Pell Grant Headcount
+pell_count,1,SP,Supplemental,Pell Grant Recipients
+transfer_level_eng_math_ccpg_count,2,SE,Promise Grant Premium,Transfer Level Math & English Promise Grant Headcount
+transfer_level_eng_math_count,2,SS,Student Success,Transfer Level Math & English Headcount
+transfer_level_eng_math_pell_count,3,SE,Pell Grant Premium,Transfer Level Math & English Pell Grant Headcount
