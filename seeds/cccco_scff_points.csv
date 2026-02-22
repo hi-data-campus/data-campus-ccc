@@ -17,3 +17,8 @@ pell_count,1,SP,Supplemental,Pell Grant Recipients
 transfer_level_eng_math_ccpg_count,2,SE,Promise Grant Premium,Transfer Level Math & English Promise Grant Headcount
 transfer_level_eng_math_count,2,SS,Student Success,Transfer Level Math & English Headcount
 transfer_level_eng_math_pell_count,3,SE,Pell Grant Premium,Transfer Level Math & English Pell Grant Headcount
+ftes_credit,1,BC,FTES,FTES Credit
+ftes_incarcerated,1,IC,FTES,FTES Incarcerated Credit
+ftes_special_admit,1,SA,FTES,FTES Special Admit Credit
+ftes_cdcp,1,CD,FTES,FTES CDCP
+ftes_noncredit,1,NC,FTES,FTES Noncredit

@@ -1,19 +1,19 @@
 category_code,category,academic_year_code,academic_year_desc,rate_amount
-BC,Base Credit,2023,2023-24,5238
-BC,Base Credit,2024,2024-25,5294
-BC,Base Credit,2025,2025-26,5416
-IC,Incarcerated Credit,2023,2023-24,7346
-IC,Incarcerated Credit,2024,2024-25,7425
-IC,Incarcerated Credit,2025,2025-26,7595
-SA,Special Admit Credit,2023,2023-24,7346
-SA,Special Admit Credit,2024,2024-25,7425
-SA,Special Admit Credit,2025,2025-26,7595
-CD,CDCP,2023,2023-24,7346
-CD,CDCP,2024,2024-25,7425
-CD,CDCP,2025,2025-26,7595
-NC,Noncredit,2023,2023-24,4417
-NC,Noncredit,2024,2024-25,4465
-NC,Noncredit,2025,2025-26,4567
+BC,FTES Base Credit,2023,2023-24,5238
+BC,FTES Base Credit,2024,2024-25,5294
+BC,FTES Base Credit,2025,2025-26,5416
+IC,FTES Incarcerated Credit,2023,2023-24,7346
+IC,FTES Incarcerated Credit,2024,2024-25,7425
+IC,FTES Incarcerated Credit,2025,2025-26,7595
+SA,FTES Special Admit Credit,2023,2023-24,7346
+SA,FTES Special Admit Credit,2024,2024-25,7425
+SA,FTES Special Admit Credit,2025,2025-26,7595
+CD,FTES CDCP,2023,2023-24,7346
+CD,FTES CDCP,2024,2024-25,7425
+CD,FTES CDCP,2025,2025-26,7595
+NC,FTES Noncredit,2023,2023-24,4417
+NC,FTES Noncredit,2024,2024-25,4465
+NC,FTES Noncredit,2025,2025-26,4567
 SP,Supplemental Point Value,2023,2023-24,1239
 SP,Supplemental Point Value,2024,2024-25,1252
 SP,Supplemental Point Value,2025,2025-26,1281
@@ -23,3 +23,29 @@ SS,Student Success Main Point Value,2025,2025-26,755
 SE,Student Success Equity Point Value,2023,2023-24,184
 SE,Student Success Equity Point Value,2024,2024-25,186
 SE,Student Success Equity Point Value,2025,2025-26,190
+C1,Single District Small College,2024,2024-25,6508449.14
+C1,Single District Small College,2025,2025-26,6658143.47
+C2,Single District Medium College,2024,2024-25,8677936.16
+C2,Single District Medium College,2025,2025-26,8877528.70
+C3,Single District Large College,2024,2024-25,10847419.78
+C3,Single District Large College,2025,2025-26,11096910.43
+C4,Multi District Small College,2024,2024-25,6508449.14
+C4,Multi District Small College,2025,2025-26,6658143.47
+C5,Multi District Medium College,2024,2024-25,7593193.50
+C5,Multi District Medium College,2025,2025-26,7767836.95
+C6,Multi District Large College,2024,2024-25,8677936.16
+C6,Multi District Large College,2025,2025-26,8877528.70
+C7,Designated Rural College,2024,2024-25,2070087.77
+C7,Designated Rural College,2025,2025-26,2117699.79
+C8,State Approved Center,2024,2024-25,2169483.61
+C8,State Approved Center,2025,2025-26,2219381.74
+L1,Legacy Small Center,2024,2024-25,271187.37
+L1,Legacy Small Center,2025,2025-26,277424.68
+L2,Legacy Small Medium Center,2024,2024-25,542371.33
+L2,Legacy Small Medium Center,2025,2025-26,554845.87
+L3,Legacy Medium Center,2024,2024-25,1084740.95
+L3,Legacy Medium Center,2025,2025-26,1109690.00
+L4,Legacy Medium Large Center,2024,2024-25,1627112.28
+L4,Legacy Medium Large Center,2025,2025-26,1664535.87
+L5,Legacy Large Center,2024,2024-25,2169483.61
+L5,Legacy Large Center,2025,2025-26,2219381.74
