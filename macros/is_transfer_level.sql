@@ -6,7 +6,7 @@
 case
     when
         (
-            {{ grade_letter }} in ('A', 'B', 'C', 'P')
+            {{ grade_letter }} in ('A', 'A+', 'A-', 'B', 'B+', 'B-', 'C', 'C+', 'C-', 'P')
             or
             left({{ grade_letter }}, 2) in ('IA', 'IB', 'IC')
             or
