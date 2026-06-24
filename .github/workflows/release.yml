@@ -1,0 +1,23 @@
+name: On release — stable tags + DataCampus delivery
+
+# Copy this into EACH source repo (data-campus-utils, data-campus, data-campus-source-*).
+# On a published release it calls the central reusable workflow in the delivery repo,
+# which force-moves the moving stable tags (vN-stable / vN.M-stable) and then triggers
+# DataCampus delivery. This thin caller is the ONLY per-repo file — the logic lives in
+# hi-data-campus/data-campus-delivery and is updated once for every source repo.
+#
+# Requires the secret DC_DISPATCH_TOKEN (contents:write on hi-data-campus/data-campus-delivery)
+# to be available to this repo (org secret, or repo secret).
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write   # the reusable workflow pushes the moving tags into this repo
+
+jobs:
+  release:
+    uses: hi-data-campus/data-campus-delivery/.github/workflows/reusable-stable-tags.yml@main
+    secrets:
+      dispatch_token: ${{ secrets.DC_DISPATCH_TOKEN }}
