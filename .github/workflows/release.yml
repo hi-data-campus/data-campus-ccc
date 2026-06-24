@@ -1,23 +1,44 @@
-name: On release — stable tags + DataCampus delivery
-
-# Copy this into EACH source repo (data-campus-utils, data-campus, data-campus-source-*).
-# On a published release it calls the central reusable workflow in the delivery repo,
-# which force-moves the moving stable tags (vN-stable / vN.M-stable) and then triggers
-# DataCampus delivery. This thin caller is the ONLY per-repo file — the logic lives in
-# hi-data-campus/data-campus-delivery and is updated once for every source repo.
-#
-# Requires the secret DC_DISPATCH_TOKEN (contents:write on hi-data-campus/data-campus-delivery)
-# to be available to this repo (org secret, or repo secret).
-
+name: On release — stable tags + DataCampus delivery (standalone)
 on:
   release:
     types: [published]
 
 permissions:
-  contents: write   # the reusable workflow pushes the moving tags into this repo
+  contents: write   # push the moving tags into this repo
 
 jobs:
-  release:
-    uses: hi-data-campus/data-campus-delivery/.github/workflows/reusable-stable-tags.yml@main
-    secrets:
-      dispatch_token: ${{ secrets.DC_DISPATCH_TOKEN }}
+  stable-tags-and-deliver:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Force-move stable tags to the released commit
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+        run: |
+          set -euo pipefail
+          ver="${TAG#v}"                                  # tolerate an optional leading v
+          major="${ver%%.*}"
+          minor="$(printf '%s' "$ver" | cut -d. -f2)"
+          case "$major" in
+            ''|*[!0-9]*) echo "::error::release tag '$TAG' has no numeric major"; exit 1 ;;
+          esac
+          if [ "$major" -ge 10 ]; then suffix=""; else suffix="-stable"; fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for t in "v${major}${suffix}" "v${major}.${minor}${suffix}"; do
+            git tag -f "$t"
+            git push -f origin "$t"
+            echo "moved $t -> $(git rev-parse --short HEAD)"
+          done
+
+      - name: Trigger DataCampus delivery (only after tags moved)
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.DC_DISPATCH_TOKEN }}
+          REF: ${{ github.event.release.tag_name }}
+        run: |
+          gh api repos/hi-data-campus/data-campus-delivery/dispatches \
+            -f event_type=data-campus-release \
+            -F "client_payload[source]=${GITHUB_REPOSITORY}" \
+            -F "client_payload[ref]=${REF}"
